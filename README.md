@@ -1,21 +1,18 @@
 # Yo, welcome!
 
-- I'm a computer engineering student minding my own business.\*
+- I'm a university dropout (for now:tm:) and a self-taught software developer minding my own business.\*
 - I'm a regular package maintainer at @pisilinux since version 2.4 "Karagül" (Dark Rose).\*\*
 - I'm a member of the Windows Insider Program since September 2016.
 - I have a total of 19 badges -2 for flights, 3 for feedback, 3 for quests, 9 for milestones, and 2 for engagement- as a member of the Windows Insider Program.
 - I have experimentations and experiences regarding Linux that could be called rather silly at hand.
-- I have 3 working laptops, 1 working tablet and 3 working smartphones in my home lab.
+- I use a gaming laptop and an Android smartphone in my daily life.
 - I'm a member of two startup groups and going towards becoming a company with one of them.
-- I usually use Windows because of school but I erase Windows\*\*\* and switch to Linux whenever I get the chance to (For example in summer holidays).
 - I might be incredibly paranoid and this might seep into my code and workstyle most of the time.
 - If I SHOUT or swear in code comments, know that the errors I got or the situations I came across back there made me pull my hair. These situations are usually the common practice in source codes anyway.
 
 \* I mean "not caring about others' personal requests, but approaching their feedbacks with utmost care" with "minding my own business"
 
-\*\* My regular maintenance proceeds with others' tests as long as I can't test them myself.
-
-\*\*\* I don't set up Windows from scratch when I want to erase it entirely and reinstall it. I back it up and Clonezilla does a good job for this - It's my recommendation.
+\*\* My regular maintenance proceeds with others' tests unless I can test them myself.
 
 -----
 
@@ -46,10 +43,10 @@ I listed the programming and prototyping languages I mentioned above not because
 
 -----
 
-# Devices in my home lab
+# Devices I use daily
 
 <details>
- <summary>Casper Excalibur G770.1245 - My main computer</summary>
+ <summary>Casper Excalibur G770.1245</summary>
 
 - UEFI BIOS, up to date secure boot keys.
   
@@ -61,92 +58,36 @@ I listed the programming and prototyping languages I mentioned above not because
   
 - 2 TB Crucial P3 NVMe SSD+500 GB KIOXIA EXCERIA SSD
   
-- Shipped with Windows 11 version 21H2, the most up to date factory image is Windows 11 23H2 as of November 2024.
+- Shipped with Windows 11 version 22H2.
   
-- Can run down to Windows 10 version 21H2 without driver issues.
-  
-- Can run up to Windows 11 version 24H2 without driver issues.
-  
-</details>
-
-<details>
- <summary>HP 15-rb004nt - My secondary computer</summary>
-
-- UEFI BIOS, outdated secure boot keys.
-  
-- AMD A4-9120 with AMD Radeon R3 Graphics
-  
-- 16 GB RAM
-  
-- 480 GB KIOXIA EXCERIA SATA SSD
-  
-- Shipped with Windows 10 version 1803. Factory images have been removed since summer 2024.
-  
-- Can run down to Windows 7 without driver issues other than HP Application Driver.\*
+- Can run down to Windows 10 version 21H2\* without driver issues.
   
 - Can run up to Windows 11 version 24H2 without driver issues.\*\*
+
+\* 2021 IoT Enterprise LTSC recommended for 21H2 if proper documented CPU support is desired. GAC is fine on 22H2.
+
+\*\* Windows 11 24H2 is the latest known Windows 11 version in GAC as of December 2024. This laptop might run future versions of Windows as long as the hardware requirements are met.
   
-\* The official drivers on the website supports down to Windows 10 version 1809, up to Windows 10 version 1909.
-  
-\*\* Not recommended. The performance is really problematic and it can only run the system itself properly.
 </details>
 
 <details>
- <summary>Acer Aspire 5742G - King of the old systems</summary>
+  <summary>Samsung Galaxy M34 5G</summary>
 
-- Legacy BIOS
-  
-- Intel Core i5-480M with Intel HD Graphics
-  
-- 3 GB RAM
-  
-- NVIDIA GeForce GT 420 M
-  
-- 500 GB HDD
-  
-- Shipped with Windows 7 Home Basic.
-  
-- Can run down to Windows XP x86 SP3 without driver issues.\*
-  
-- Can run up to Windows 10 version 22H2 without driver issues.\*\*
-  
-\* Not recommended. IDE emulation hinders the performance badly and finding the driver for the NVIDIA GPU is pretty much the work.
+- Locked bootloader
 
-\*\* Not recommended. The updates after Windows 10 version 1703 hog the computer's resources a lot.
+- Exynos 1280
+
+- 6 GB RAM + 4 GB ZRAM
+
+- Mali-G68
+
+- 128 GB UFS 2.2
+
+- Currently running OneUI 6.1, Android 14.
+
+- Shipped with OneUI 5.x, Android 13.
 
 </details>
-
-- Rowell S-534 - Android 4.2.1
-  
-  - Form factor: 7-inch tablet
-    
-  - Perfect for old Android experience.
-    
-- Samsung Galaxy M34 5G
-  
-  - Form factor: 6.5-inch smartphone
-    
-  - My main phone
-    
-- General Mobile GM 8 d - Android 9
-  
-  - Form factor: 5.7-inch smartphone
-    
-  - My secondary phone
-    
-  - The last stock system is installed.
-    
-  - Bootloader locked.
-    
-- Vestel Venus V5 - Android 7.1.2
-  
-  - Form factor: 5-inch smartphone
-    
-  - My tertiary phone
-    
-  - The last stock system is installed.
-    
-  - Bootloader locked.
     
 
 -----
