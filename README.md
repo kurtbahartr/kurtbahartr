@@ -16,6 +16,14 @@
 
 -----
 
+# My 88x31
+
+There have been some growing interest towards this format by my programmer friends, so here I made my own too!
+
+![kurtbahartr's 88x31](https://raw.githubusercontent.com/kurtbahartr/kurtbahartr/master/assets/88x31.gif)
+
+-----
+
 # Programming and prototyping languages I prefer
 
 1. C
