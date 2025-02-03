@@ -54,7 +54,7 @@ I listed the programming and prototyping languages I mentioned above not because
 # Devices I use daily
 
 <details>
- <summary>Casper Excalibur G770.1245</summary>
+ <summary>Casper Excalibur G770.1245 - Main laptop</summary>
 
 - UEFI BIOS, up to date secure boot keys.
   
@@ -75,6 +75,29 @@ I listed the programming and prototyping languages I mentioned above not because
 \* 2021 IoT Enterprise LTSC recommended for 21H2 if proper documented CPU support is desired. GAC is fine on 22H2.
 
 \*\* Windows 11 24H2 is the latest known Windows 11 version in GAC as of December 2024. This laptop might run future versions of Windows as long as the hardware requirements are met.
+  
+</details>
+
+<details>
+ <summary>HP 15-rb004nt - Home server</summary>
+
+- UEFI BIOS, out of date secure boot keys.
+  
+- AMD A4-9120 with Radeon R3 graphics
+  
+- 16 GB RAM
+  
+- 480 GB KIOXIA EXCERIA SSD
+  
+- Shipped with Windows 10 version 1803.
+  
+- Can run down to Windows 7 without driver issues\*.
+  
+- Can run up to Windows 11 version 24H2 without driver issues.\*\*
+
+\* HP Application Driver works on Windows versions starting Windows 10 version 1803.
+
+\*\* Windows 11 24H2 is the latest known Windows 11 version in GAC as of January 2025. This laptop might run future versions of Windows as long as the hardware requirements are met.
   
 </details>
 
