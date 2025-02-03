@@ -1,7 +1,7 @@
 # Yo, welcome!
 
 - I'm a university dropout (for now:tm:) and a self-taught software developer minding my own business.\*
-- I'm a regular package maintainer at @pisilinux since version 2.4 "Karagül" (Dark Rose).\*\*
+- I'm a regular package maintainer at @pisilinux since version 2.4 "Karagül" (Dark Rose) and at @pacstall since the time I discovered about Rhino Linux (Q4 2024).\*\*
 - I'm a member of the Windows Insider Program since September 2016.
 - I have a total of 19 badges -2 for flights, 3 for feedback, 3 for quests, 9 for milestones, and 2 for engagement- as a member of the Windows Insider Program.
 - I have experimentations and experiences regarding Linux that could be called rather silly at hand.
