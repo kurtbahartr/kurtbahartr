@@ -114,7 +114,7 @@ I listed the programming and prototyping languages I mentioned above not because
 
 - 128 GB UFS 2.2
 
-- Currently running OneUI 6.1, Android 14.
+- Currently running ExtremeROM One UI 7.0, Android 15.
 
 - Shipped with OneUI 5.x, Android 13.
 
