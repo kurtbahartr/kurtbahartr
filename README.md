@@ -108,18 +108,43 @@ I listed the programming and prototyping languages I mentioned above not because
 
 - Exynos 1280
 
-- 6 GB RAM + 4 GB ZRAM
+- 6 GB RAM
 
 - Mali-G68
 
 - 128 GB UFS 2.2
 
-- Currently running ExtremeROM One UI 7.0, Android 15.
+- Currently running Project NERV One UI 7.0, Android 15.
 
 - Shipped with OneUI 5.x, Android 13.
 
 </details>
-    
+
+<details>
+  <summary>Samsung Galaxy Watch FE</summary>
+
+- Locked bootloader
+
+- Exynos W920
+
+- 1.5 GB RAM
+
+- Mali-G68
+
+- 16 GB internal storage
+
+- Currently running One UI 6.0 Watch, Wear OS 5.0 Android 14.
+
+- Shipped with OneUI 5.x Watch, Wear OS 4.0 Android 13.
+
+</details>
+
+<details>
+  <summary>Samsung Galaxy Buds3</summary>
+
+- Currently running firmware version R530XXU0AYB3.
+
+</details>
 
 -----
 
