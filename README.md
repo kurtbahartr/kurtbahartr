@@ -142,7 +142,7 @@ I listed the programming and prototyping languages I mentioned above not because
 <details>
   <summary>Samsung Galaxy Buds3</summary>
 
-- Currently running firmware version R530XXU0AYB3.
+- Currently running firmware version R530XXU0AYG3.
 
 </details>
 
