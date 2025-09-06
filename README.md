@@ -104,7 +104,7 @@ I listed the programming and prototyping languages I mentioned above not because
 <details>
   <summary>Samsung Galaxy M34 5G</summary>
 
-- Locked bootloader
+- Unlocked bootloader
 
 - Exynos 1280
 
@@ -114,7 +114,7 @@ I listed the programming and prototyping languages I mentioned above not because
 
 - 128 GB UFS 2.2
 
-- Currently running Project NERV One UI 7.0, Android 15.
+- Currently running PixelOS Android 15.
 
 - Shipped with OneUI 5.x, Android 13.
 
