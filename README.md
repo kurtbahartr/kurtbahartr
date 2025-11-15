@@ -1,14 +1,14 @@
 # Yo, welcome!
 
-- I'm a university dropout (for now:tm:) and a self-taught software developer minding my own business.\*
+- I'm an English Language and Literature student and a self-taught software developer minding my own business.\*
 - I'm a regular package maintainer at @pisilinux since version 2.4 "Karagül" (Dark Rose) and at @pacstall since the time I discovered about Rhino Linux (Q4 2024).\*\*
 - I'm a member of the Windows Insider Program since September 2016.
 - I have a total of 19 badges -2 for flights, 3 for feedback, 3 for quests, 9 for milestones, and 2 for engagement- as a member of the Windows Insider Program.
 - I have experimentations and experiences regarding Linux that could be called rather silly at hand.
 - I use a gaming laptop and an Android smartphone in my daily life.
-- I'm a member of two startup groups and going towards becoming a company with one of them.
+- I'm a member of a startup group and going towards becoming a company with them.
 - I might be incredibly paranoid and this might seep into my code and workstyle most of the time.
-- If I SHOUT or swear in code comments, know that the errors I got or the situations I came across back there made me pull my hair. These situations are usually the common practice in source codes anyway.
+- If I SHOUT or swear in code comments, acknowledge that the errors I got or the situations I came across back there made me pull my hair. These situations are usually the common practice in source codes anyway.
 
 \* I mean "not caring about others' personal requests, but approaching their feedbacks with utmost care" with "minding my own business"
 
@@ -112,11 +112,11 @@ I listed the programming and prototyping languages I mentioned above not because
 
 - Mali-G68
 
-- 128 GB UFS 2.2
+- 128 GB UFS 2.2+32 GB SanDisk SD Card
 
-- Currently running PixelOS Android 15.
+- Currently running One UI 7.0 (M346B2XUS8DYH1) Android 15.
 
-- Shipped with OneUI 5.x, Android 13.
+- Shipped with OneUI 5.1, Android 13.
 
 </details>
 
@@ -142,7 +142,7 @@ I listed the programming and prototyping languages I mentioned above not because
 <details>
   <summary>Samsung Galaxy Buds3</summary>
 
-- Currently running firmware version R530XXU0AYG3.
+- Currently running firmware version R530XXU0AYJ1.
 
 </details>
 
@@ -220,22 +220,7 @@ I listed the programming and prototyping languages I mentioned above not because
 
 # My current works
 
-## Focused on IT
-
 1. Package maintenance in Pisi GNU/Linux
-2. Contributions to Diana's dotfiles repo
+2. Contributions to [Diana](https://github.com/dianaw353)'s projects
 3. Random research and experimentation on Windows, Linux, Android and OSes based on and similar to them.
 4. Observations about the ethicality of the common practices and use cases of artificial intelligence per situation.
-
-## Focused on personal life
-
-1. Research about psychology
-2. Research about general physical wellbeing
-3. Observations about ethics and society
-4. Observations and research about trans environment
-
-## May be called "related to politics"
-
-1. Research about national education system
-2. Research about national government
-3. Observations and research about political decisions commonly agreed upon worldwide.
