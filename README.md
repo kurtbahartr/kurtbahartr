@@ -114,7 +114,7 @@ I listed the programming and prototyping languages I mentioned above not because
 
 - 128 GB UFS 2.2+32 GB SanDisk SD Card
 
-- Currently running One UI 7.0 (M346B2XUS8DYH1) Android 15.
+- Currently running UN1CA One UI 8.0 Android 16 on top of One UI 7.0 (M346B2XUS8DYH1) bootloader.
 
 - Shipped with OneUI 5.1, Android 13.
 
@@ -133,7 +133,7 @@ I listed the programming and prototyping languages I mentioned above not because
 
 - 16 GB internal storage
 
-- Currently running One UI 6.0 Watch, Wear OS 5.0 Android 14.
+- Currently running One UI 8.0 Watch, Wear OS 6.0 Android 16.
 
 - Shipped with OneUI 5.x Watch, Wear OS 4.0 Android 13.
 
